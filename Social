@@ -1,0 +1,41 @@
+# 社媒主域（扩展版，包含图中已有 + 更多全球主流平台）
+DOMAIN-KEYWORD,facebook,Social
+DOMAIN-KEYWORD,instagram,Social
+DOMAIN-KEYWORD,twitter,Social
+DOMAIN-KEYWORD,snapchat,Social
+DOMAIN-KEYWORD,reddit,Social
+DOMAIN-KEYWORD,discord,Social
+DOMAIN-KEYWORD,pinterest,Social
+DOMAIN-KEYWORD,twitch,Social
+DOMAIN-KEYWORD,linkedin,Social
+DOMAIN-KEYWORD,threads,Social
+DOMAIN-KEYWORD,whatsapp,Social   # Meta旗下，补充完整
+DOMAIN-SUFFIX,x.com,Social      # Twitter/X 主域补充（KEYWORD太宽不建议用x）
+# 各平台专属云CDN / 全球CDN节点（补充图中未覆盖或高频的）
+DOMAIN-SUFFIX,fbcdn.net,Social
+DOMAIN-SUFFIX,twimg.com,Social
+DOMAIN-SUFFIX,sc-cdn.net,Social
+DOMAIN-SUFFIX,cdinstagram.com,Social
+DOMAIN-SUFFIX,cloudfront.net,Social     # AWS全球CDN（TikTok、Reddit、YouTube等大量使用）
+DOMAIN-SUFFIX,akamaized.net,Social      # Akamai全球CDN（TikTok、Meta等大量使用）
+DOMAIN-SUFFIX,googleusercontent.com,Social
+# Reddit 专属CDN
+DOMAIN-SUFFIX,redditmedia.com,Social
+DOMAIN-SUFFIX,redd.it,Social
+DOMAIN-SUFFIX,reddituploads.com,Social
+# Discord 专属CDN
+DOMAIN-SUFFIX,discordapp.com,Social
+DOMAIN-SUFFIX,cdn.discordapp.com,Social
+DOMAIN-SUFFIX,media.discordapp.net,Social
+# Pinterest 专属CDN
+DOMAIN-SUFFIX,pinimg.com,Social
+DOMAIN-SUFFIX,pin.it,Social
+# Twitch 专属CDN
+DOMAIN-SUFFIX,ttvnw.net,Social
+DOMAIN-SUFFIX,jtvnw.net,Social
+DOMAIN-SUFFIX,twitchcdn.net,Social
+DOMAIN-SUFFIX,ext-twitch.tv,Social
+DOMAIN-SUFFIX,live-video.net,Social
+# LinkedIn 专属CDN
+DOMAIN-SUFFIX,licdn.com,Social
+DOMAIN-SUFFIX,linkedin.com,Social   # 主域也加SUFFIX更稳
