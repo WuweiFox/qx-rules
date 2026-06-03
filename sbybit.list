@@ -7,6 +7,7 @@ DOMAIN,stream.bybit.com
 DOMAIN,ws.bybit.com
 DOMAIN,api.bybit.nl
 DOMAIN,api.bybit.tr
+DOMAIN-SUFFIX,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN,api.bybit.eu
 DOMAIN-SUFFIX,nloli.xyz
 DOMAIN,static.bybit.com
